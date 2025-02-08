@@ -1,2 +1,1 @@
-print("hello world!")
-print(2*3)
+print("this is my first python script")
